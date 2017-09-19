@@ -1,5 +1,5 @@
 {
-  "name": "passport-wink",
+  "name": "passport-winkv2",
   "version": "0.0.1",
   "description": "Wink OAuth2 strategy for Passport",
   "main": "./lib/passport-wink",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/tuddman/passport-wink.git"
+    "url": "git://github.com/Nibbler999/passport-wink.git"
   },
   "keywords": [
     "passport",
@@ -19,14 +19,13 @@
   "author": "tuddman <scott.tudd@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "pkginfo": "0.3.0",
-    "passport-oauth2": "~1.1.2"
+    "passport-oauth2": "1.x.x"
   },
   "engines": {
     "node": ">0.10.0"
   },
   "bugs": {
-    "url": "https://github.com/tuddman/passport-wink/issues"
+    "url": "https://github.com/Nibbler999/passport-wink/issues"
   },
-  "homepage": "https://github.com/tuddman/passport-wink"
+  "homepage": "https://github.com/Nibbler999/passport-wink"
 }
